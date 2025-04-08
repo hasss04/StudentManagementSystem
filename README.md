@@ -62,11 +62,11 @@ Run Main.java
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen  
+### 🏠 Welcome Screen  
 ![Home Screen](StudentManagementSystem/src/StudentManagement/screenshot_home.png)
 
 ### 🔐 Faculty Login Screen  
-![Login Screen](./screenshot_login.png)
+![Login Screen](StudentManagementSystem/src/StudentManagement/screenshot_login.png)
 
 ---
 
