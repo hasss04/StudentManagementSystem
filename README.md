@@ -62,7 +62,7 @@ Run Main.java
 
 ## 📸 Screenshots
 > ⚠️ Note: Some screenshots are left blank intentionally to allow customization.  
-> 📌 Replace the "Done by _______" with your name and insert your **college/school logo** above the Student Management System title.
+> 📌 Replace the "Done by _______" with your name and insert your **college/school logo** above or below the Student Management System title.
 
 ### 👋 Welcome Screen  
 ![Home Screen](StudentManagementSystem/src/StudentManagement/screenshot_home.png)
