@@ -63,7 +63,7 @@ Run Main.java
 ## 📸 Screenshots
 
 ### 🏠 Home Screen  
-![Home Screen](./screenshot_home.png)
+![Home Screen](StudentManagementSystem/src/StudentManagement/screenshot_home.png)
 
 ### 🔐 Faculty Login Screen  
 ![Login Screen](./screenshot_login.png)
