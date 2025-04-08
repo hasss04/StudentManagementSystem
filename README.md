@@ -1,3 +1,4 @@
+
 # 🎓 StudentManagementSystem
 
 A **JavaFX + MySQL** desktop app to manage student records, attendance, and marks — perfect for academic projects.
@@ -21,6 +22,7 @@ A **JavaFX + MySQL** desktop app to manage student records, attendance, and mark
 - JavaFX
 - JDBC (Java Database Connectivity)
 - MySQL
+- JasperReports (optional)
 
 Built using Java and connected to a MySQL database via JDBC, it ensures reliable and secure data operations. The UI is built using JavaFX, providing an intuitive and user-friendly experience. Optional integration with JasperReports allows for professional report generation.
 
@@ -31,7 +33,7 @@ The system is modular and scalable, suitable for institutions managing a large n
 ## 🚀 Setup & Usage
 
 This project can be used for **college mini projects** or academic demos.  
-Just configure your MySQL credentials (URL, username, password) in the source files, and the system is ready to use.
+Just configure your MySQL credentials (`URL`, `username`, `password`) in the source files, and the system is ready to use.
 
 ---
 
@@ -54,3 +56,47 @@ git clone https://github.com/hasss04/StudentManagementSystem.git
 
 # Run the application
 Run Main.java
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen  
+![Home Screen](./screenshot_home.png)
+
+### 🔐 Faculty Login Screen  
+![Login Screen](./screenshot_login.png)
+
+---
+
+## 📁 Project Structure
+
+```
+StudentManagementSystem/
+├── src/
+│   └── StudentManagement/
+│       ├── AddCourse.java
+│       ├── AddStudent.java
+│       ├── AddSubject.java
+│       ├── DatabaseTest.java
+│       ├── EnterMark.java
+│       ├── HomePage.java
+│       ├── LoginPage.java
+│       ├── Main.java
+│       ├── SignUpPage.java
+│       ├── StudentAttendance.java
+│       ├── StudentPerformance.java
+│       ├── Studentinfo.java
+│       ├── logo1.png
+│       ├── screenshot_home.png
+│       └── screenshot_login.png
+├── README.md
+├── student_info.pdf
+```
+
+---
+
+## 📄 License
+
+This project is for educational purposes only.
