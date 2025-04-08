@@ -62,11 +62,18 @@ Run Main.java
 
 ## 📸 Screenshots
 
-### 🏠 Welcome Screen  
+### 👋 Welcome Screen  
 ![Home Screen](StudentManagementSystem/src/StudentManagement/screenshot_home.png)
 
 ### 🔐 Faculty Login Screen  
 ![Login Screen](StudentManagementSystem/src/StudentManagement/screenshot_login.png)
+
+### 🗃️ Faculty Details Stored in Database  
+![Database Screen](StudentManagementSystem/src/StudentManagement/screenshot_database.png)
+
+### 🏡 Home Screen After Successful Login  
+![Faculty Home](StudentManagementSystem/src/StudentManagement/screenshot_homepage.png)
+
 
 ---
 
