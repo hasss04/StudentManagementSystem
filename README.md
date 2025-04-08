@@ -55,3 +55,15 @@ git clone https://github.com/hasss04/StudentManagementSystem.git
 
 # Run the application
 Run Main.java
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](https://github.com/hasss04/StudentManagementSystem/blob/master/screenshot_home.png?raw=true)
+
+---
+
+### 🔐 Faculty Login Screen
+![Login Screen](https://github.com/hasss04/StudentManagementSystem/blob/master/screenshot_login.png?raw=true)
