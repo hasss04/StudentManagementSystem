@@ -22,7 +22,6 @@ A **JavaFX + MySQL** desktop app to manage student records, attendance, and mark
 - JavaFX
 - JDBC (Java Database Connectivity)
 - MySQL
-- JasperReports (optional)
 
 Built using Java and connected to a MySQL database via JDBC, it ensures reliable and secure data operations. The UI is built using JavaFX, providing an intuitive and user-friendly experience. Optional integration with JasperReports allows for professional report generation.
 
